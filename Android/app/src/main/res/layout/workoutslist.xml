@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+    android:padding="13dp"
+    android:layout_marginTop="20dp"
+    android:weightSum="3"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/worktype"
+        android:layout_height="wrap_content"
+        android:layout_width="0dp"
+        android:layout_weight="0.5"
+        android:textStyle="bold"
+        android:textSize="13sp"
+        android:textColor="@color/colorPrimary"
+        tools:text = "@string/work_type"
+         />
+
+    <TextView
+        android:id="@+id/worklevel"
+        android:layout_width="0dp"
+        android:layout_weight="0.5"
+        android:textStyle="italic"
+        android:textColor="@color/colorAccent"
+        android:textSize="13sp"
+        tools:text = "@string/lvl"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/workexercise"
+        android:layout_width="0dp"
+        android:layout_weight="0.5"
+        android:textStyle="italic"
+        android:textColor="@color/colorAccent"
+        android:textSize="13sp"
+        tools:text = "@string/ex"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/musclegroup"
+        android:layout_width="0dp"
+        android:layout_weight="0.5"
+        android:textStyle="italic"
+        android:textColor="@color/colorAccent"
+        android:textSize="13sp"
+        tools:text = "@string/msc_gr"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="0dp"
+        android:textSize="13sp"
+        android:layout_weight="0.4"
+        android:textColor="@color/colorPrimary"
+        tools:text = "@string/time"
+        android:textStyle="bold"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/nrsets"
+        android:layout_width="0dp"
+        android:textSize="13sp"
+        android:layout_weight="0.3"
+        android:textColor="@color/colorPrimary"
+        tools:text = "@string/sets"
+        android:textStyle="bold"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/nrreps"
+        android:layout_width="0dp"
+        android:textSize="13sp"
+        android:layout_weight="0.3"
+        android:textColor="@color/colorPrimary"
+        tools:text = "@string/reps"
+        android:textStyle="bold"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

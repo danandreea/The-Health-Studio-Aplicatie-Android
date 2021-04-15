@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">The Health Studio</string>
+    <string name="sign_in">Sign in</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="remember_username_and_password">Remember username and password</string>
+    <string name="nav_opened">Nav dr opened</string>
+    <string name="nav_closed">Nav drw closed</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="add_meal_type_values">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Snacks</item>
+    </string-array>
+    <string name="profile_save">Save</string>
+    <string name="prof_male">Male</string>
+    <string name="prof_female">Female</string>
+    <string name="gender">Gender</string>
+    <string name="prof_name">Name</string>
+    <string name="prof_surname">Surname</string>
+    <string name="prof_age">Age</string>
+    <string name="prof_height">Height</string>
+    <string name="prof_weight">Weight</string>
+    <string name="prof_activity">Activity Level</string>
+    <string name="prof_info">Remember this info</string>
+    <string name="glasses_of_water_250ml">Glasses of water (250ml)</string>
+    <string name="_2">2</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="reset">Reset</string>
+    <string name="_5">5</string>
+    <string name="today_workout">Your workout for today:</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="add_date">Add date</string>
+    <string name="meal_type">Meal Type</string>
+    <string name="name">Name</string>
+    <string name="serving_size">Serving Size</string>
+    <string name="calories">Calories</string>
+    <string name="add">Add</string>
+    <string name="textview">TextView</string>
+    <string name="your_today_meals">Your today meals:</string>
+    <string name="_0">0</string>
+    <string name="total_calories">Total calories:</string>
+    <string name="water_drank_today">Water drank today:</string>
+
+    <string name="personal_profile">Personal Profile</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="your_calories_variation_for_different_meal_types">Your calories variation for different meal types:</string>
+    <string name="number_of_each_type_of_meals">Number of each type of meals:</string>
+    <string name="muscle_group">Muscle Group</string>
+
+    <string name="level">Level</string>
+    <string name="workout_type">Workout type</string>
+    <string name="time">Time</string>
+    <string name="sets">Sets</string>
+    <string name="reps">Reps</string>
+    <string name="the_health_app">The Health App</string>
+    <string name="the_health_studio">The Health Studio</string>
+    <string name="you_haven_t_account">You haven\'t account?</string>
+
+    <string name="confirm_your_password">Confirm your password</string>
+    <string name="you_have_an_account">You have an account?</string>
+    <string name="work_type">Workout Type</string>
+    <string name="lvl">Level</string>
+    <string name="ex">Exercise</string>
+    <string name="msc_gr">Muscle Group</string>
+
+    <string-array name="add_activity_values">
+    <item>Sedentary</item>
+    <item>Light</item>
+    <item>Moderate</item>
+    <item>Active</item>
+    <item>Very Active</item>
+    </string-array>
+</resources>

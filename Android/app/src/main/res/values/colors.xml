@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="lightPink">#EDC7D4</color>
+    <color name="alcroBarbie">#FADCE6</color>
+    <color name="lila">#A80280</color>
+    <color name="mov">#FFB640FF</color>
+    <color name="albastru">#FF408CFF</color>
+    <color name="orange">#B65E10</color>
+    <color name="circleBorders">#FFADA7</color>
+    <color name="gradStart">#D59AFF</color>
+    <color name="gradEnd">#D530B9</color>
+
+</resources>
